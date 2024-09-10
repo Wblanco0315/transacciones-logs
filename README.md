@@ -43,7 +43,7 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
    - **URL:** `http://localhost:8080/transaccion/balance`
    - **Método:** `GET`
    - **Descripción:** Muestra el saldo disponible en la cuenta del usuario autenticado.
-   - **Auth Type:**Bearer Token
+   - **Auth Type:** Bearer Token
 
 ### 4. 🏧 **Retiro de Fondos**
    - **URL:** `http://localhost:8080/transaccion/retiro`
@@ -70,7 +70,7 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
    - **URL:** `http://localhost:8080/transaccion/transferencia`
    - **Método:** `POST`
    - **Descripción:** Realiza una transferencia de fondos desde la cuenta del usuario autenticado hacia la cuenta de otro usuario digitado.
-   - **Auth Type:**Bearer Token
+   - **Auth Type:** Bearer Token
 ```
 {
     "monto":3000.00,
@@ -81,13 +81,13 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
    - **URL:** `http://localhost:8080/transaccion/auditoria`
    - **Método:** `GET`
    - **Descripción:** Muestra la tabla completa de todas las transacciones realizadas por todos los usuarios del sistema (requiere permisos de administrador).
-   - **Auth Type:**Bearer Token
+   - **Auth Type:** Bearer Token
 
 ### 8. 📜 **Historial de Transacciones del Usuario**
    - **URL:** `http://localhost:8080/transaccion/historial`
    - **Método:** `GET`
    - **Descripción:** Muestra el historial de transacciones realizadas por el usuario autenticado.
-   - **Auth Type:**Bearer Token
+   - **Auth Type:** Bearer Token
 ---
 
 ## 🛠️ **Tecnologías Utilizadas**
