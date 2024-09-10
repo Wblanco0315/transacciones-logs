@@ -17,7 +17,7 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
 ### 1. 📝 **Registro de Usuario**
    - **URL:** `http://localhost:8080/auth/register`
    - **Método:** `POST`
-   - **Descripción:** Permite crear una nueva cuenta de usuario proporcionando datos como nombre, email y contraseña.
+   - **Descripción:** Permite crear una nueva cuenta de usuario proporcionando datos como cedula y contraseña.
 ```
 {
     "cedula":"",
