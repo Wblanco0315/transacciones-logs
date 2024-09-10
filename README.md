@@ -111,5 +111,5 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
 ## 🚀 **Instrucciones de Ejecución**
 
 1. Clona el repositorio.
-2. Ejecuta `mvn spring-boot:run`.
+2. Ejecuta.
 3. Accede a las rutas proporcionadas para realizar las operaciones.
