@@ -94,7 +94,7 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
 
 - **Java Spring Boot** ☕
 - **Maven** 📦
-- **MySQL** 🗄️ como base de datos
+- **MySQL** 🗄️
 
 ### 📦 **Dependencias Principales**
 
