@@ -1,0 +1,7 @@
+2024-09-09 19:30:47,223 INFO o.s.b.StartupInfoLogger [main] Starting TransaccionesApplication using Java 17.0.12 with PID 20788 (C:\Users\camil\Desktop\transacciones-logs\target\classes started by camil in C:\Users\camil\Desktop\transacciones-logs)
+2024-09-09 19:30:47,239 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-09 19:30:47,243 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-09-09 19:31:02,963 INFO o.s.b.StartupInfoLogger [main] Started TransaccionesApplication in 16.796 seconds (process running for 20.198)
+2024-09-09 19:31:27,237 INFO c.e.t.s.UserDetailServiceIMP [http-nio-8080-exec-1] Inicio de registro para el usuario: 1065863389
+2024-09-09 19:31:27,490 INFO c.e.t.v.UserValidator [http-nio-8080-exec-1] Usuario 1065863389 creado exitosamente.
+2024-09-09 19:31:27,699 INFO c.e.t.s.UserDetailServiceIMP [http-nio-8080-exec-1] Usuario 1065863389 creado exitosamente.
