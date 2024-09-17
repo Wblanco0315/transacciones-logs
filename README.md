@@ -111,5 +111,7 @@ Este proyecto es un sistema de gestión de transacciones financieras que permite
 ## 🚀 **Instrucciones de Ejecución**
 
 1. Clona el repositorio.
-2. Ejecuta.
-3. Accede a las rutas proporcionadas para realizar las operaciones.
+2. Ve a ..\transacciones-logs\src\main\resources en el archivo aplication.properties.
+3. Utiliza tus credenciales para configurar tu base de datos postgres y guarda.
+4. Ejecuta.
+5. Accede a las rutas proporcionadas para realizar las operaciones.
